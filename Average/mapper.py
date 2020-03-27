@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """mapper.py"""
 import sys
-from builtins import print
 
 doc = sys.stdin.read()
 doc = doc.strip()
